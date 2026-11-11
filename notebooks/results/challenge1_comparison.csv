@@ -1,0 +1,4 @@
+Framework,Speed (seconds),Test accuracy,Pros,Cons
+Keras,17.394110399996862,0.9748,Concise fit API; built-in validation and metric tracking,Less explicit training mechanics in the standard fit interface
+PyTorch,10.41582710001967,0.9752,"Explicit, easy-to-inspect training and gradient updates","Requires manual loop, metrics, and evaluation handling"
+TensorFlow Core,12.171893999999156,0.9748,Custom training with GradientTape and graph execution,More code; graph tracing requires care
