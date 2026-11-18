@@ -1,6 +1,6 @@
 # Multilayer Perceptrons — Group Assignment
 
-**Group:** Senay Teweldebrhan, Ricardo, Juan, and Zeyneb.
+**Group:** Senay Teweldebrhan, Ricardo Mohammed (7500382), Juan, and Zeyneb.
 
 This project addresses both challenges in the supplied `MultiLayerPerceptrons_Workshop.ipynb`, using `MultiLayeredPerceptrons.ipynb` as supporting course material.
 
